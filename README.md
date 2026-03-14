@@ -35,8 +35,7 @@ calculator-web-app/
 
 Clone the repository
 
-git clone https://github.com/your-username/calculator-web-app.git
-
+git clone Link:- https://krishnakoushikgoudkammagoni.github.io/calculator
 Open the project folder
 
 cd calculator-web-app
